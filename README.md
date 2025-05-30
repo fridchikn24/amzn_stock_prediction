@@ -5,6 +5,7 @@ project forecasting Amazon's closing price by stacking time series XGBoost, LSTM
 
 
 Stacked MAE: 4.000743511660549
-0.9844370313524188
+
+R2: 0.9844370313524188
 
 
